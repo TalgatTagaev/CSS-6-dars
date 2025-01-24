@@ -1,0 +1,101 @@
+.wrap{
+    width: 1200px;
+    margin: -5px 10px ;
+    padding: 15px;
+    box-sizing: border-box;
+}
+.btn1{
+    width: 100px;
+    height: 20px;
+    background-color: green;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px 25px;
+    border: 2px solid;
+    border-radius: 5px;
+    float: left;
+    margin-top: 0px;
+    margin-left: 0px
+}
+.btn2{
+    width: 100px;
+    height: 20px;
+    background-color: green;
+    color: white;
+    padding: 10px 25px;
+    text-decoration: none;
+    border: 2px solid;
+    border-radius: 5px;
+    float: left;
+    margin-top: 60px;
+    margin-left: -153px
+}
+.btn3{
+    width: 100px;
+    height: 20px;
+    background-color: green;
+    color: white;
+    padding: 10px 25px;
+    text-decoration: none;
+    border: 2px solid;
+    border-radius: 5px;
+    float: left;
+    margin-top: 120px;
+    margin-left: -153px
+}
+.btn4{
+    width: 100px;
+    height: 20px;
+    background-color: blue;
+    color: white;
+    padding: 10px 25px;
+    text-decoration: none;
+    border: 2px solid;
+    border-radius: 5px;
+    float: left;
+    margin-top: -133px;
+    margin-left: 400px
+}
+.btn5{
+    width: 100px;
+    height: 20px;
+    background-color: blue;
+    color: white;
+    padding: 10px 25px;
+    text-decoration: none;
+    border: 2px solid;
+    border-radius: 5px;
+    float: left;
+    margin-top: -76.5px;
+    margin-left: 400px
+}
+.btn6{
+    width: 100px;
+    height: 20px;
+    background-color: blue;
+    color: white;
+    padding: 10px 25px;
+    text-decoration: none;
+    border: 2px solid;
+    border-radius: 5px;
+    float: left;
+    margin-top: -15px;
+    margin-left: 400px
+}
+.img{
+    text-align: center;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+.btn{
+    width: 120px;
+    height: 15px;
+    display: inline-block;
+    padding: 15px 25px;
+    text-decoration: none;
+    border: 1px solid;
+    margin-left: 3px;
+    margin-top: -3px;
+    border-radius: 3px;
+}

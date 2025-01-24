@@ -1,0 +1,65 @@
+body{
+    background-color: darkslategray;
+}
+.wrap{
+    width: 1200px;
+    margin: 10px auto;
+    padding: 15px;
+    box-sizing: border-box;
+}
+.btn1{
+    display: inline-block;
+    padding: 15px 25px;
+    text-decoration: none;
+    color: red;
+    border: 2px solid;
+    border-radius: 10px;
+    margin-left: 0px;
+}
+.btn2{
+    display: inline-block;
+    padding: 15px 25px;
+    text-decoration: none;
+    color: white;
+    border: 2px solid greenyellow;
+    border-radius: 40px;
+    background-image: url(../rasmlar/aa.jfif);
+    margin-left: 40px;
+}
+.btn3{
+    display: inline-block;
+    padding: 15px 25px;
+    text-decoration: none;
+    color: white;
+    border: 2px solid aqua;
+    border-radius: 10px;
+    background-color: aqua;
+    margin-left: 40px;
+}
+.btn4{
+    display: inline-block;
+    padding: 15px 25px;
+    text-decoration: none;
+    color: white;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    background-color: yellow;
+}
+.btn5{
+    display: inline-block;
+    padding: 15px 25px;
+    text-decoration: none;
+    color: indigo;
+    border: 2px solid;
+    background-color:darkslategray;
+    margin-left: 40px;
+}
+.btn6{
+    display: inline-block;
+    padding: 15px 25px;
+    text-decoration: none;
+    color: green;
+    border: 2px solid;
+    border-radius: 40px;
+    margin-left: 40px;
+}
