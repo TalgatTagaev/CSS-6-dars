@@ -1,0 +1,131 @@
+body{
+    background-color: gainsboro;
+    margin: 0;
+    padding: 0;
+}
+.text-block{
+    margin: 0 auto;
+    width: 1200px;
+    margin-bottom: 60px;
+}
+.text-block-1{
+    position: relative;
+    margin-top: 20px;
+    width: 60%;
+    height: 200px;
+    border: 1px solid white;
+    background-color: white;
+}
+.text-block-item-1{
+    width: 70%;
+    margin-left: 20px;
+}
+.text-block-item-2{
+    width: 20%;
+    margin-left: 75%;
+    margin-top: -170px;
+}
+.i1{
+    color: red;
+}
+.text-block-2{
+    width: 200px;
+    height: 200px;
+    border: 1px solid white;
+    margin-left: 75%;
+    margin-top: -200px;
+    background-color: white;
+}
+.text-block-item-3{
+    border: 1px solid white;
+    width: 160px;
+    height: 160px;
+    margin-left: 20px;
+    margin-top: 20px;
+    text-align: center;
+ 
+}
+h1{
+    font-size: 70px;
+    line-height: 50%;
+    color: white;
+}
+.o{
+    margin-top: -35px;
+    color: white;
+}
+.red{
+    background-color: red;
+}
+.text-block-3{
+    width: 200px;
+    height: 200px;
+    border: 1px solid white;
+    background-color: white;
+}
+.text-block-item-4{
+    border: 1px solid white;
+    width: 160px;
+    height: 160px;
+    margin-left: 20px;
+    margin-top: 20px;
+    text-align: center;
+}
+.orange{
+    background-color: orange;
+}
+.text-block-4{
+    position: relative;
+    margin-left: 380px;
+    margin-top: -200px;
+    width: 60%;
+    height: 200px;
+    border: 1px solid white;
+    background-color: white; 
+    margin-bottom: 60px;
+}
+.text-block-item-5{
+    width: 20%;
+    margin-left: 20px;
+    margin-top: -70px;
+}
+.text-block-item-6{
+    width: 70%;
+    margin-left: 26%;
+   margin-top: -95px;
+}
+.img{
+    margin-top: 90px;
+}
+.blue{
+    background-color: blue;
+}
+.aqua{
+    background-color: aqua;
+}
+.i2{
+    color: orange;
+}
+.i3{
+    color: blue;
+}
+.i4{
+    color: aqua
+}
+.text-block-item-1::after{
+    content: "";
+    border: 50px solid transparent;
+    border-left-color: white;
+    position: absolute;
+    top: 50px;
+    left: 720px;
+}
+.text-block-item-5::after{
+    content: "";
+    border: 50px solid transparent;
+    border-right-color: white;
+    position: absolute;
+    top: 50px;
+    right:720px;
+}
+
